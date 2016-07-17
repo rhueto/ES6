@@ -2,6 +2,11 @@
 *.log*
 # project dependencies
 node_modules
+# project configuration
+.babelrc
+.eslintrc.json
+gulpfile.js
+package.json
 # OSX folder attributes
 .DS_Store
 # temporary files
